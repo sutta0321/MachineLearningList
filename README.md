@@ -1,2 +1,6 @@
-# scipyInstall
-omg
+packages
+numpy
+scipy
+matplotlib
+pandas
+
